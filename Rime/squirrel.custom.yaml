@@ -1,0 +1,28 @@
+patch:
+    app_options/com.apple.dt.Xcode:
+        ascii_mode: true
+    app_options/com.barebones.textwrangler:
+        ascii_mode: true
+    app_options/com.sublimetext.3:
+        ascii_mode: true
+    app_options/com.jetbrains.PhpStorm:
+        ascii_mode: true
+    app_options/com.jetbrains.pystorm:
+        ascii_mode: true
+    app_options/com.jetbrains.intellij:
+        ascii_mode: true
+    app_options/com.google.android.studio:
+        ascii_mode: true
+    app_options/com.jetbrains.CLion:
+        ascii_mode: true
+    app_options/com.google.Chrome:
+        ascii_mode: true
+    us_keyboard_layout: true
+    #style/color_scheme: mac_native
+    style/inline_preedit: true
+    style/horizontal: true
+    style/font_point: 16
+    #style/font_face: "Hiragino Sans GB W3"
+    style/corner_radius: 6
+    style/border_height: 0
+    style/border_width: 0
