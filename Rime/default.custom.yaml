@@ -5,3 +5,10 @@ patch:
         - schema: luna_pinyin_fluency
         - schema: luna_pinyin_simp
         - schema: luna_pinyin_tw
+    ascii_composer/good_old_caps_lock: true
+    ascii_composer/switch_key:
+        Caps_Lock: noop
+        Shift_L: commit_code
+        Shift_R: noop
+        Control_L: noop
+        Control_R: noop
